@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oaphohmang.3inthekey.ca/sitemap.xml
